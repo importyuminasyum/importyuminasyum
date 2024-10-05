@@ -9,7 +9,7 @@ name : Yumin Choi
 Email : yumeen04@naver.com
 
 ## Education
-Major : Convergent BioScience and Informatics, Department of Biological Systems Sciences, Chungnam National University
+Major : Convergent BioScience and Informatics, Department of Biological Systems Sciences, Chungnam National University <br>
 Double Major : Bio-AI Convergence, Department of Interdisciplinary Studies, Chungnam National University
 
 ## Internship
