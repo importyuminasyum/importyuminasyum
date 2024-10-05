@@ -1,4 +1,6 @@
-# Hello I'm Yumin Choi
+<div align="center">
+
+# Hello 👋🏻
 
 ## Information
 name : Yumin Choi
@@ -10,3 +12,5 @@ Double Major : Bio-AI Convergence, Department of Interdisciplinary Studies, Chun
 
 ## Internship
 Undergraduate research student in translational microbiome lab (2024.06~)
+
+</div>
