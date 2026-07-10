@@ -12,7 +12,7 @@ Double Major : Bio-AI Convergence, Department of Interdisciplinary Studies, Chun
 Undergraduate Research Student in the Translational Microbiome Lab (Jun. 2024 ~ Jun. 2026)
 
 ## After Graduation
-SSAFY (Samsung Software Academy For Youth) (Jul. 2026~)
+SSAFY (Samsung Software Academy For Youth) (Jul. 2026 ~)
 
 ## 
 
